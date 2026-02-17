@@ -1,4 +1,4 @@
-# 📝 Simple To-Do List Application
+# 📝 Task Manager Application
 
 > A clean, minimal, and user-friendly desktop To-Do List application built with Java Swing
 
