@@ -16,7 +16,7 @@ public class Simpletodolistt extends JFrame {
     File saveFile = new File("tasks.txt");
 
     public Simpletodolistt() {
-        setTitle("📝 To-Do List Application");
+        setTitle("To-Do List Application");
         setSize(400, 500);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
